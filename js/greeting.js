@@ -3,7 +3,7 @@ let today = new Date();
 let hour = today.getHours();
 
 // Here you can change your name
-let user = 'Pabl';
+let user = 'Pablo';
 
 // Here you can change your greetings
 let gree1 = 'Good night, ';
