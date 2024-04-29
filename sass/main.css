@@ -224,12 +224,7 @@ html {
   background-color: var(--sbg);
 }
 
-.card:hover {
-  -webkit-transform: translateY(-0.2rem);
-          transform: translateY(-0.2rem);
-  -webkit-box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
-          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
-}
+
 
 .c-clock {
   display: -webkit-box;
@@ -405,13 +400,7 @@ html {
   grid-column: 3;
 }
 
-.qlink__link:hover {
-  background-color: var(--accent);
-  -webkit-transform: translateY(-0.2rem);
-          transform: translateY(-0.2rem);
-  -webkit-box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
-          box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
-}
+
 
 .qlink__link:hover svg {
   color: var(--fg);
